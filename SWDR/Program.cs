@@ -37,7 +37,7 @@ namespace SWDR
 
             if (!_hasArgumentSettings)
             {
-                Console.WriteLine($"Steam Workshop Dependency Resolver - v{appVersion.Major}.{appVersion.Minor}.{appVersion.Build} (C) {DateTime.UtcNow.Year} Ryan Torzynski");
+                Console.WriteLine($"Steam Workshop Dependencies Resolver - v{appVersion.Major}.{appVersion.Minor}.{appVersion.Build} (C) {DateTime.UtcNow.Year} Ryan Torzynski");
                 Console.WriteLine("CTRL+C to exit application.");
                 Console.WriteLine();
 
